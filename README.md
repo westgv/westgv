@@ -6,7 +6,7 @@
 ![West's GitHub stats](https://github-readme-stats.vercel.app/api?username=westgv&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso nos meus projetos
 
 <div style="display: inline_block"><br/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
