@@ -4,6 +4,7 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ![West's GitHub stats](https://github-readme-stats.vercel.app/api?username=westgv&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westgv&hide_progress=true)
 
 ## Tecnologias que uso no meu dia
 
@@ -19,3 +20,5 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+Entusiasta de tecnologia sempre buscando aprender novas coisas!!
