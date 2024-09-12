@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![snake gif](https://github.com/westgv/westgv/blob/output/github-contribution-grid-snake.gif)
+<!-- <img src="https://raw.githubusercontent.com/leonardocardenuto/leonardocardenuto/output/snake.svg" alt="Snake animation" /> -->
